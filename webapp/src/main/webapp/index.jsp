@@ -2,10 +2,6 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2>DURVENDRA SINGH</h2>
-    <h2>DURVENDRA</h2>
-    <h2>DURVENDRA</h2>
-    <h2>DURVENDRA</h2>
-    <h2>DURVENDRA</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
